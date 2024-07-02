@@ -1,0 +1,12 @@
+2023-02-20 12:21:04,993 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-20 12:21:09,154 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-02-20 12:25:56,816 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.6; built: 2021-06-29T15:28:56.259Z; git: 37e7731b4b142a882d73974ff3bec78d621bd674; jvm 18.0.1+10
+2023-02-20 12:25:56,865 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-02-20 12:25:56,938 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2881c04a{/wse,null,AVAILABLE}
+2023-02-20 12:25:56,984 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2315d524{HTTP/1.1, (http/1.1)}{0.0.0.0:53021}
+2023-02-20 12:25:57,156 [main] INFO  org.eclipse.jetty.server.Server - Started Server@3826510a{STARTING}[10.0.6,sto=0] @489597ms
+2023-02-20 12:30:12,189 [Framework stop - Equinox Container: 5aed6355-582f-4769-a812-d2b79bfe47ca] INFO  org.eclipse.jetty.server.Server - Stopped Server@3826510a{STOPPING}[10.0.6,sto=0]
+2023-02-20 12:30:12,202 [Framework stop - Equinox Container: 5aed6355-582f-4769-a812-d2b79bfe47ca] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2315d524{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2023-02-20 12:30:12,271 [Framework stop - Equinox Container: 5aed6355-582f-4769-a812-d2b79bfe47ca] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2881c04a{/wse,null,STOPPED}
+2023-02-20 12:30:35,462 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-20 12:30:37,319 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.

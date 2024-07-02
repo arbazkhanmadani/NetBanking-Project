@@ -1,0 +1,87 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+.container{
+	padding-top: 50px;
+    border: 5px solid rgb(29, 149, 197);
+    padding-bottom: 80px;
+    background-color: aliceblue;
+    font-weight: 400;
+}
+.bo{
+	background:rgb(174, 198, 219);
+	border: 3px solid black;
+	padding: 5px;
+	border-radius: 2%;
+}
+#sub{
+	margin-top:5px;
+	padding:5px;
+	align-items:center;
+	background-color: blue;
+	color:white;
+}
+
+.container1{
+    align-items: center;
+    padding-left: 40%;
+    padding-top: 50px;
+    border: 5px solid rgb(29, 149, 197);
+    padding-bottom: 50px;
+    background-color: rgb(174, 198, 219);
+    font-weight: 400;
+}
+.container3{
+    padding-right: 20%;
+    padding-left: 10%;
+    align-items: center;
+    align-content: center;
+    padding-top: 50px;
+    border: 5px solid rgb(29, 149, 197);
+    padding-bottom: 50px;
+    background-color: rgb(174, 198, 219);
+    font-weight: 400;
+}
+.container2{
+    padding-left: 40%;
+    padding-top: 50px;
+    align-items: center;
+    align-content: center;
+    border: 5px solid rgb(29, 149, 197);
+    padding-bottom: 50px;
+    background-color: rgb(174, 198, 219);
+    font-weight: 400;
+}
+
+.form1 td{
+    padding: 15px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
